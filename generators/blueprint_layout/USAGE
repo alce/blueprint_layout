@@ -1,0 +1,3 @@
+./script/generate blueprint_layout TemplateName --templating_engine
+if templating_engine is not specified, defaults to haml
+

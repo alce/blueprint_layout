@@ -1,0 +1,9 @@
+html, body {
+  background: #d3d3d3; }
+
+.container {
+  /* comment the next rule out if you do not */
+  /* want to see the background grid */
+  background: url('blueprint/lib/grid.png');
+  background-color: #fff;
+  min-height: 500px; }
